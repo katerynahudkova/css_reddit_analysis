@@ -55,6 +55,8 @@ The repository is organized to follow the data processing pipeline:
 │   ├── 01_comments_preprocessing.ipynb  #step 1: cleaning and merging both sources of data
 │   ├── 01_submissions_preprocessing.ipynb  
 │   └── 02_eda_analysis.ipynb        #step 2: exploratory analysis, visualization and stats
+├── scripts/
+│   └── 00_raw_data_extraction.py   #utility for converting Pushshift ZST dumps to filtered CSVs
 ├── README.md               #project documentation
 └── requirements.txt        #Python dependencies
 ```
