@@ -1,4 +1,3 @@
-````markdown
 ### Project title
 **Tradwife discourse analysis on Reddit data**
 
