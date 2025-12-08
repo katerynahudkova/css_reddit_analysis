@@ -27,7 +27,7 @@ Run the EDA notebook (`02_eda_analysis.ipynb`). This script performs:
   * analysis using VADER and TextBlob.
   * Statistical testing (GLM, Spearman correlation).
 
-### Environment or Dependency Requirements
+### Environment
 
 The analysis requires **Python 3.8+**. Install the necessary libraries using pip:
 
@@ -35,15 +35,15 @@ The analysis requires **Python 3.8+**. Install the necessary libraries using pip
 pip install pandas numpy matplotlib seaborn scipy statsmodels vaderSentiment textblob
 ```
 
-### Link to Initial Dataset
+### Link to initial dataset
 
 The initial raw dataset (collected from Academic Torrents and filtered for specific subreddits) is available here:
 
-  * **Google Drive Link:** [Dataset Download](https://drive.google.com/file/d/1p6PlhyqfTsVbfLwQAYU9OLS6cvqrcu31/view?usp=drive_link)
+  * **Google Drive link:** [Dataset Download](https://drive.google.com/file/d/1p6PlhyqfTsVbfLwQAYU9OLS6cvqrcu31/view?usp=drive_link)
 
 Note: The dataset covers the period of July 2019 - July 2023 (sampled months: Jan, Apr, Jul, Oct) plus Summer 2024 data.
 
-### Files and Folder Structure
+### Files and folder structure
 
 The repository is organized to follow the data processing pipeline:
 
