@@ -39,7 +39,7 @@ pip install pandas numpy matplotlib seaborn scipy statsmodels vaderSentiment tex
 
 The initial raw dataset (collected from Academic Torrents and filtered for specific subreddits) is available here:
 
-  * **Google Drive link:** [Dataset Download]([https://drive.google.com/file/d/1UCX1BXGJEDyJohzamw_mPKGevEMKo-_K/view?usp=share_link])
+  * **Google Drive link:** [Dataset Download](https://drive.google.com/file/d/1UCX1BXGJEDyJohzamw_mPKGevEMKo-_K/view?usp=share_link)
 
 Note: The dataset covers the period of July 2019 - July 2023 (sampled months: Jan, Apr, Jul, Oct) plus Summer 2024 data.
 
